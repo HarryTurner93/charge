@@ -1,0 +1,4 @@
+# Notebooks
+notebooks/wandb
+notebooks/lightning_logs
+notebooks/.ipynb_checkpoints
